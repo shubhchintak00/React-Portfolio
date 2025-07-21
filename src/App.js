@@ -10,6 +10,8 @@ import Contact from "./components/Contact";
 function App() {
   return (
    <div>
+    // added title
+    <title>Shalini</title>
     <NavBar/>
     <Home/>
     <SocialLinks/>
